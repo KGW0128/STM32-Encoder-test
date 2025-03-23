@@ -1,3 +1,17 @@
+
+로터리 엔코더를 이용한 360도 표현
+---
+
+### 사용 모듈명
+- E40H10-5000-3-T-24
+
+
+### 추가 설명
+- https://www.notion.so/demo-1bbd05d289c180a9ba83d9bd6731c6fc#1bfd05d289c1807087f0d2a3a61b395f
+
+---
+
+
 # 엔코더 사용 및 설정
 
 ## 엔코더 설명
@@ -41,6 +55,3 @@
 
 ---
 
-### 추가 자료
-- **[Z 신호 사용법 영상](https://www.youtube.com/watch?v=6oXmkOyYzyg)**
-- **[E40 엔코더 PDF](attachment:e40.pdf)**
